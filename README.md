@@ -7,6 +7,13 @@
 
 ## Getting Started
 
+Create a node project
+
+``` bash
+mkdir <project-name>
+cd <project-name>
+```
+
 ### Installing Playwright using pnpm
 
 `pnpm create playwright`
