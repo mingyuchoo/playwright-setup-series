@@ -47,7 +47,7 @@ Runs the tests in debug mode
 
 Auto generate tests with Codegen
 
-`pnpm exec playwright codegen`
+`pnpm exec playwright codegen <URL>`
 
 ## References
 
